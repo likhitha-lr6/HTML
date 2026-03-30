@@ -1,4 +1,4 @@
-1. Standard markup language for web pages
+1. Standard markup language for web page.
 2. 1989- Tim Berners Lee invented
 3. Fundamentals of Web development 
     - Websites work
